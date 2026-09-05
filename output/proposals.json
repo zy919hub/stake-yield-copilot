@@ -1,0 +1,110 @@
+[
+  {
+    "chain": "Base",
+    "asset": "USDC-VELVET",
+    "project": "aerodrome-slipstream",
+    "apy": 115491.07,
+    "tvl": 1189699.0,
+    "grade": "APY_ANOMALY_WATCH",
+    "pool": "c07a115f-7299-4dd1-ac25-2de459010b6b"
+  },
+  {
+    "chain": "Base",
+    "asset": "WETH-CBBTC",
+    "project": "aerodrome-slipstream",
+    "apy": 2097.01,
+    "tvl": 1290487.0,
+    "grade": "APY_ANOMALY_WATCH",
+    "pool": "541b4974-e23b-4a7a-968f-6cfc027825de"
+  },
+  {
+    "chain": "BSC",
+    "asset": "ZBU",
+    "project": "zeebu",
+    "apy": 1106.46,
+    "tvl": 1874826.0,
+    "grade": "APY_ANOMALY_WATCH",
+    "pool": "6cf96588-3d2a-47b3-a2da-8e4e25d5a5fa"
+  },
+  {
+    "chain": "Base",
+    "asset": "WETH-DRV",
+    "project": "aerodrome-slipstream",
+    "apy": 867.15,
+    "tvl": 1011199.0,
+    "grade": "APY_ANOMALY_WATCH",
+    "pool": "e727fc76-9e29-4799-a2a0-e3db5d392f9e"
+  },
+  {
+    "chain": "Base",
+    "asset": "USDC-BASECAT",
+    "project": "uniswap-v4",
+    "apy": 463.25,
+    "tvl": 1200747.0,
+    "grade": "APY_ANOMALY_WATCH",
+    "pool": "bd89ae9f-3c2f-5fe4-adcd-64c4a436cdc0"
+  },
+  {
+    "chain": "Base",
+    "asset": "WETH-CBBTC",
+    "project": "aerodrome-slipstream",
+    "apy": 444.19,
+    "tvl": 8827897.0,
+    "grade": "APY_ANOMALY_WATCH",
+    "pool": "07eda095-9e08-4f82-ad79-2225c60ed229"
+  },
+  {
+    "chain": "BSC",
+    "asset": "QQQB-USDC",
+    "project": "uniswap-v3",
+    "apy": 410.82,
+    "tvl": 1162914.0,
+    "grade": "APY_ANOMALY_WATCH",
+    "pool": "62175cdc-208b-500c-9e91-ea08ec34d281"
+  },
+  {
+    "chain": "Solana",
+    "asset": "WSOL-USELESS",
+    "project": "raydium-amm",
+    "apy": 361.18,
+    "tvl": 4708918.0,
+    "grade": "APY_ANOMALY_WATCH",
+    "pool": "99d4b1c8-9e7b-45d7-8603-260d9846866c"
+  },
+  {
+    "chain": "Base",
+    "asset": "CBETH-CBBTC",
+    "project": "aerodrome-slipstream",
+    "apy": 269.41,
+    "tvl": 1477561.0,
+    "grade": "APY_ANOMALY_WATCH",
+    "pool": "79369b35-dd99-4d68-b989-31c258fc40ab"
+  },
+  {
+    "chain": "Base",
+    "asset": "CBBTC-ZEN",
+    "project": "aerodrome-slipstream",
+    "apy": 252.91,
+    "tvl": 1524160.0,
+    "grade": "APY_ANOMALY_WATCH",
+    "pool": "913c44c2-5b5c-4dd8-9961-f1d1c112cee2"
+  },
+  {
+    "chain": "Ethereum",
+    "asset": "JRROYAPYUSD",
+    "project": "royco-v2",
+    "apy": 204.53,
+    "tvl": 1239569.0,
+    "grade": "APY_ANOMALY_WATCH",
+    "pool": "168147fa-b90d-5ffd-bfb3-9ea4e737ff5e"
+  },
+  {
+    "chain": "Base",
+    "asset": "AERO-CBBTC",
+    "project": "aerodrome-slipstream",
+    "apy": 183.81,
+    "tvl": 1309188.0,
+    "grade": "APY_ANOMALY_WATCH",
+    "pool": "53b7036a-ec2a-494b-ad8e-ae53f35c20b8"
+  }
+]
